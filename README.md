@@ -3,7 +3,7 @@ Monad Example in Scala
 
 This example compliments the blog post I made at:
 
-	* http://www.underflow.ca/blog/820/monads-in-scala
+* [Monads in Scala](http://www.underflow.ca/blog/820/monads-in-scala)
 
 To run the included example you must load the file from the scala interpreter:
 
